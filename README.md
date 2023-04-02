@@ -23,9 +23,10 @@ https://www.devmedia.com.br/iniciando-na-linguagem-java/21136
   O If é utilizado basicamente como uma forma de "avaliar" condições, explicando e traduzindo de maneira literal, seria como falar "se (condição) for verdadeira, então execute". Exemplo básico:
   
   ```
-  if (condição)
-       instrução;
-  fimse
+  if (condição) {
+      instrução1;
+      instrução2;
+  }
   ```
   
 <h4> Instrução - Else </h4>
@@ -42,5 +43,22 @@ https://www.devmedia.com.br/iniciando-na-linguagem-java/21136
      // Caso contrário, a frase abaixo será escrita
      System.out.println(“Você errou!”);
      }
+  ```
+  </b>
+
+<h4> Instrução - Switch/Case </h4>
+
+  <b>O Switch/Case vem como uma alternativa para ocasiões em que são necessários muitos "Ifs" em um programa. Basicamente, sua função é testar o valor contido em uma determinada variável realizando uma comparação com cada uma das opções. Cada uma dessas possíveis opções é determinada pela instrução condicional "Case". Um exemplo:
+  
+  ```
+  int mes = 2;
+      switch (mes) {
+       case 1:
+         System.out.println(“O mês é janeiro”);
+       break;
+       case 2:
+         System.out.println(“O mês é fevereiro”);
+       break;
+      }
   ```
   </b>
