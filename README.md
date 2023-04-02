@@ -19,7 +19,7 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
  <h5>Os dados são importantes em qualquer linguagem, e no Java não é diferente, por isso iremos explicar a teoria dos tipos de dados primitivos do Java e o que eles fazem na prática quando utlizados em um programa. Podemos dividir esses dados nos tipos: integral, ponto flutuante e booleano.</h5>
  
  <h4> Integral - Byte</h4>
-  <h5><b>Ocupa 8 bits de memória e é responável por armazenar números inteiros de -128 e 127.  é  o mais indicado para a idade de uma pessoa, por exemplo.</b></h5>
+  <h5><b>Ocupa 8 bits de memória e é responável por armazenar números inteiros de -128 e 127. É o mais indicado para a idade de uma pessoa, por exemplo.</b></h5>
  
  <h4> Integral - Short</h4>
   <h5><b>Os dados do tipo Short são maiores que os "bytes", podendo armazenar valores entre -32.768 até 32.767, ocupando 16 bits de memória.</b></h5>
@@ -28,7 +28,7 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
   <h5><b>Com tamanho maior que o short, é capaz de armazenar números entre -2.147.483.648 e 2.147.483.647., sendo necessário o espaço de 32 bits.</b></h5>
  
  <h4> Integral - Long</h4>
-  <h5><b>Sendo o maior disponível em relação a números na linguagem Java, contempla valores entre -9.223.372.036.854.775.808 e 9.223.372.036.854.775.807. DIferente de outros tipos de dado, no Long é possível colocar um "L" ao final do número, para indicar ser desse tipo.</b></h5>
+  <h5><b>Sendo o maior disponível em relação a números na linguagem Java, contempla valores entre -9.223.372.036.854.775.808 e 9.223.372.036.854.775.807. Diferentemente de outros tipos de dado, no Long é possível colocar um "L" ao final do número, para indicar ser deste tipo.</b></h5>
  
  <h4> Integral - Char</h4>
   <h5><b>Com limite máximo de 16 bits de memória, é utilizado para armazenar caracteres, como letras, por exemplo. </b></h5>
@@ -37,11 +37,11 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
   <h5><b>Valor ilimitado de caracteres que podem ser englobados, possui uma menor precisão que o Double (ou seja, menos casas após a vírgula) e ocupa 32 bits de memória.</b></h5>
  
  <h4> Ponto Flutuante - Double</h4>
-  <h5>Também possui um valor ilimitado de caracteres que podem ser englobados, tendo uma grande vantagem em relação ao armazenamento do float, pois são necessários 64 bits de armazenamento.Sendo assim, é mais utilizado, já que possui o dobro de capacidade do tipo float.<b>
+  <h5>Também possui um valor ilimitado de caracteres que podem ser englobados, tendo uma grande vantagem em relação ao armazenamento do float, pois são necessários 64 bits de armazenamento.Sendo assim, é mais utilizado, já que possui o dobro de capacidade do outro tipo de ponto flutuante.<b>
 </b></h5>
  
  <h4> Booleano - True e False</h4>
-  <h5><b> Ocuándp só um bit de memória, recebe apenas dois valores: sim, ou não, true ou false.</b></h5>
+  <h5><b> Ocupando só um bit de memória, recebe apenas dois valores: sim, ou não, true ou false.</b></h5>
  
 <h3><b> Estrutura Condicional </b></h3>
 
