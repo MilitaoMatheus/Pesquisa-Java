@@ -92,3 +92,50 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
       }
   ```
   </b>
+ 
+ <h3><b> Estrtura de repetição </b></h3>
+  
+ <b> As estruturas de repetição são usadas para fazer com que o programa possa ser executado uma ou várias vezes, dependendo dda quantidade de repetições que você definir. O melhores nomes a se usar para definir a variável que irá carregar a "quantidade" de repetições são os caracteres: i, j, k, cont...
+  Para definir a quantidade de repetições, o ideal a se fazer é um incremento. Exemplo:
+  
+ ```
+  i++;
+ ```
+  </b>
+ 
+ <h4><b> Estrutura de repetição - while </b></h4>
+ 
+  <b>Estrutura que verifica se determinado critério e verdadeiro para executar o looping N vezes. Por exemplo:
+   
+  ```
+  int i = 0;
+   
+  while (i < 10){
+   System.out.printIn("Esse número é menor que 10");    
+   i++;
+  ```
+ </b>
+
+ <h4><b> Estrutura de repetição - do... while </b></h4> 
+  
+ <b> Esta estrutura tem seu funcionamento inverso ao comando while, ou eja, excuta o looping pelo menos uma vez antes de verificar a condição. Exemplo:
+ 
+  ```
+  int i = 1;
+  
+  do{
+   System.out.printIn("Esse número é menor que 10");
+   i++;
+  } while (i <10);
+  ```
+ </b>
+  
+  <h4><b> Estrutura de repetição - For </b></h4> 
+  
+  <b> Comando utilizado para quado se tem um número limitado de repetições. Exemplo:
+   
+   ```
+   for(int i = 1; i < 10; i++;){
+    System.out.printIn("Esse número é menor que 10");
+   }
+   ```
