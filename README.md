@@ -139,3 +139,14 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
     System.out.printIn("Esse número é menor que 10");
    }
    ```
+  </b>
+   
+   <h3><b> Elementos visuais do Android Studio <b><h3>
+   
+   <h4><b>Text</b></h4>
+    
+    Como o próprio nome já diz, é um elemento visual gráfico voltado ao texto, a parte escrita da aplicação. O text tem algumas variações dentro de si, algums delas são:
+    - TextView: o principal objetivo é mostrar o texto na tela do aplicativo.
+    - AutoCompleteTextView:
+    - MultiCompleteTextView:
+    - CheckedTextView:
