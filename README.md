@@ -145,8 +145,11 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
    
    <h4><b>Text</b></h4>
     
-    Como o próprio nome já diz, é um elemento visual gráfico voltado ao texto, a parte escrita da aplicação. O text tem algumas variações dentro de si, algums delas são:
+   <b>Como o próprio nome já diz, é um elemento visual gráfico voltado ao texto, a parte escrita da aplicação. O text tem algumas variações dentro de si, algums delas são:</b>
+  ```
+    <b>
     - TextView: o principal objetivo é mostrar o texto na tela do aplicativo.
-    - AutoCompleteTextView:
-    - MultiCompleteTextView:
-    - CheckedTextView:
+    - AutoCompleteTextView: é um texto que pode ser editado pelo usuário, e também mostra as sugestões possiveis para completar o que esá sendo digitado.
+    - MultiAutoleteTextView: uma extensão do AutoCompleteTextView, mas a diferença é que e mostra uma sugestão de conclusão para o que o usário está digitando.
+    </b>
+  ``` 
