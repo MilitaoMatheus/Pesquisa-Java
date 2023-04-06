@@ -152,4 +152,15 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
     - AutoCompleteTextView: é um texto que pode ser editado pelo usuário, e também mostra as sugestões possiveis para completar o que esá sendo digitado.
     - MultiAutoleteTextView: uma extensão do AutoCompleteTextView, mas a diferença é que e mostra uma sugestão de conclusão para o que o usário está digitando.
   ``` 
-  <h5><b>
+   </h5></b>
+   
+   <h4><b>Button</b></h4>
+    
+   <h5><b> Um botão "clicável", que pode direcionar o usuário a alguma outra tela ou pode realizar uma ação, dependendo de sua configuração. Assim como o text, o button também tem suas variações, dentre elas:
+    
+  ```
+    - CHeckBocx: são botões que podem ser marcados com um "check", podendo ser utilizado para escolhas, etc. Podemos encontrar essas checkbox em formulários de múltipla escolha.
+    - RadioButton: pode ser considerado um botão de opção, pois ao ser clicado, o botão fica preenchido, assim mostrando a opção ecolhida pelo usuário.
+    - Switch: pode ser considerado um botão de ativado/desativado. É muito comum vermos esse tipo de botão nas opções do visor do celular, por exemplo: o wifi, dados móveis, bluetooth, etc.
+  ```  
+   </b></h5>
