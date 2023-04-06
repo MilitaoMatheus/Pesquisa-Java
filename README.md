@@ -11,6 +11,7 @@ https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeti
 https://productoversee.com/java-estruturas-de-repeticao/
 https://www.devmedia.com.br/iniciando-na-linguagem-java/21136
 https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
+https://developer.android.com/?hl=pt-br
 
 <h2><b> Pesquisa: </b></h2>
 <br>
@@ -164,3 +165,15 @@ https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/
     - Switch: pode ser considerado um botão de ativado/desativado. É muito comum vermos esse tipo de botão nas opções do visor do celular, por exemplo: o wifi, dados móveis, bluetooth, etc.
   ```  
    </b></h5>
+
+  <h4><b>Widgets</b></h4>
+  
+  <h5><b>São essenciais para a personalização de uma tela, pois possuem características funcionais que auxiliam o usuário, podendo ser ajustado de acordo com as preferências do usuário. Alguns tipos de widgets são:
+  
+  ```
+    - Widget de informação: um widget que irá mostrar informações básicas, porém essenciais para o usuário. Ex.: data, previsão do tempo, placar de jogos, notícias, etc.
+    - Widget de coleção: contém vários elementos do mesmo tipo dentro de si mesmo. Ex.: coleção de email ou mensagens de algum aplicativo de comunicação.  
+    - Widget de controle: a principal função é exibir funções usadas frequentementes pelo usuário, são basicamente como um "atalho" para essas funções. Ex.: wifi, bluetooth, rotação de tela, etc.
+    - Widget híbrido: é um widget que contém outros elementos de outros tipos de widget. Ex.: widget de player de música.
+  ```
+  </h5></b>
