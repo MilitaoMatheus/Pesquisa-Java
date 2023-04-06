@@ -177,3 +177,18 @@ https://developer.android.com/?hl=pt-br
     - Widget híbrido: é um widget que contém outros elementos de outros tipos de widget. Ex.: widget de player de música.
   ```
   </h5></b>
+
+  <h4><b>Layout</b></h4>
+  
+  <h5><b> Pode ser usado para definir a estrutura da parte visual do aplicativo. Assim como os outros, os layouts também tem suas variações, sendo elas:
+  
+   ```
+    ConstraintLayout: permite a criação de layouts com grande complexidade.
+    LinearLayoutHorizontal: criasse um layout de forma vertical ou horizontal.
+   ```
+   </h5></b>
+   
+   
+  
+  
+  
